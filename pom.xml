@@ -27,4 +27,13 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub iac huiswerk Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/maxstolktirbig/iac-huiswerk</url>
+        </repository>
+    </distributionManagement>
+
 </project>
