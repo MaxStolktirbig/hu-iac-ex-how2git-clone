@@ -24,3 +24,6 @@ hs_err_pid*
 
 #ignore json
 *.json
+
+#ignore lib folder
+/lib/
